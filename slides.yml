@@ -1,0 +1,10 @@
+root:
+    'https://dc25.github.io/2024-eclipsePhotos'
+
+images: !!omap
+ - 20240407_153944.jpg: "Eclipse Artwork"
+ - 20240408_105328.jpg: "Pre-eclipse crowd"
+ - 20240408_105451.jpg: "More pre-eclipse crowd"
+ - 20240408_110806.jpg: "Eclipse in progress"
+ - 20240408_111205.jpg: "Eclipse"
+ - 20240408_085256.jpg: "Eclipse Benedict"
